@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @solmazfs
+- 👀 I’m interested in, art, game development, web design, chiptune etc.
+- 🌱 I’m currently learning, c/c++/c#
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me, info.solmazfs [at] gmail.com
